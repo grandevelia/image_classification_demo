@@ -1,0 +1,7 @@
+**/env/*
+**/env/
+**/data/*
+**/data/
+**/__pycache/**
+**/__pycache
+**/models/*
